@@ -1,0 +1,22 @@
+{
+  "name": "playwrighttesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenuco/PlaywrightTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elenuco/PlaywrightTesting/issues"
+  },
+  "homepage": "https://github.com/elenuco/PlaywrightTesting#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.14.7"
+  }
+}
